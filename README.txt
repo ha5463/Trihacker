@@ -1,12 +1,4 @@
-	the login has been created as phpMyadmin 
-	Database name : test
-	table name : persons
-	specs : 
-	Id INT AUTO INCREMENT 
-	Name VARCHAR
-	Email Varchar PRIMARY KEY
-	Password Varchar
-	Contact INT
-	Address VARCHAR
-	City VARCHAR
+This is my final project for Trihacker Cup tournament.
+The login has been created as phpMyadmin 
+Database name : test
 the login information could be found on connection.php
