@@ -1,0 +1,7 @@
+3
+3 
+aba
+4 
+abab
+5 
+abcde

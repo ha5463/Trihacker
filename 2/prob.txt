@@ -1,0 +1,4 @@
+You have a string of lowercase letters.
+Now you have to find the maximum length substring in any of the permutation of the original string, 
+with the condition that this substring should be a palindrome.
+Output the lexicographically smallest palindromic substring of maximum length.

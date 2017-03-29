@@ -1,0 +1,2 @@
+First line will contain integer T (the number of test cases)
+Next T lines contain two integers 'p' and 'q'.

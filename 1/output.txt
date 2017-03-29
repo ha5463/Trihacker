@@ -1,0 +1,2 @@
+You have to print the maximum number of groups in which the students can be divided so that the
+division satisfies the given conditions.

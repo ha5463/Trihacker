@@ -1,0 +1,1 @@
+output the required answer for each test case on a new line.

@@ -1,0 +1,6 @@
+The given array denoting heights of students : [4 3 1 7]
+If the array is divided into two groups : [4 3 1] and [7].
+Sorting first group : [1 3 4]
+Sorting second group : [7]
+New array : [1 3 4 7] which is sorted.
+It is not possible to divide it in more than 2 groups, hence the answer is 2.

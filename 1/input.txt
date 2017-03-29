@@ -1,0 +1,3 @@
+The first line contains the number of test cases t.
+For each test case, the first line will contain an integer n, the number of students.
+The next line contains n space-separated integers hi, denoting the height of the students.

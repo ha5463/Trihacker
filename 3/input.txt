@@ -1,0 +1,4 @@
+First line will contain an integer 'T' (number of test cases ).
+For each test case there is an integer 'N' (number of employees).
+Next line contains N integers a[1],a[2],..a[N].
+a[i] denotes the salary of the 'i'th employee from left.

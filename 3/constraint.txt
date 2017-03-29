@@ -1,0 +1,4 @@
+T<=10000
+1<=N<=5*100000
+sum of N over all test cases <=5*10^5
+1<=a[i]<=10^9

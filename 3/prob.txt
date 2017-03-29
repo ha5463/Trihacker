@@ -1,0 +1,5 @@
+Once there was a survey going on in the famous technical company SoftTech.
+Employee manager asked their employees to stand in a line.
+In the survey every employee had to report the number of
+employees standing in front of him with the same salary as of that particular employee.
+There are N employee. Employee salary is given as an array of N elements.

@@ -1,0 +1,3 @@
+First line will contain an integer 'T' (number of test cases ).
+For each test case there is an integer 'N' (Length of the string).
+Next line contains a string of lowercase letters of length 'N'

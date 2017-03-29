@@ -1,0 +1,9 @@
+employee 1 has salary 1 , but there is no employee in
+front of him with salary 1, hence print 0
+employee 2 has salary 2 , but there is no employee in
+front of him with salary 2, hence print 0
+employee 3 has salary 1 , there is an employee in
+front of him at position 1 with salary 1, hence print 1
+employee 4 has salary 1 , there are two employee in
+front of him at position 1 and 3 with salary 1, hence
+print 2

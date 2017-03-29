@@ -1,0 +1,9 @@
+Tourist is a prodigy in competitve programming world. Once he was sleeping and dreaming.
+As sometimes weird dreams come. That unlucky day he was learning maths from you,in his dream.
+He was stuck at a maths problem and you had to help him. Tourist stated the problem to you :
+you are given two integers 'p' and 'q' (q<=p). let num = (p!/q!) ^ (p+q)
+( '!' denotes factorial , '^' denotes exponentiation ).
+You can perform an operation over num,several times. Operation over num is defined as :
+Choose a positive integer d (d>1),such that num is divisible by d, and replace num by num/d.
+Now you have to make num equals to 1 in maximum number of operations.
+Tourist wants to know the maximum possible number of operations.
